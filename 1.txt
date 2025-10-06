@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-1.txt
-=======
-Contenido del fichero 1
->>>>>>> 0806cb1 (Añadir fichero 1.txt)
+Hola
