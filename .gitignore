@@ -1,0 +1,2 @@
+echo "privado.txt" >> .gitignore
+echo "privada/" >> .gitignore
