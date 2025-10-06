@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 echo "privado.txt" >> .gitignore
 echo "privada/" >> .gitignore
+=======
+privado.txt
+privada/
+>>>>>>> afb9f67 (Ignorar archivos privados (.gitignore))
